@@ -22,8 +22,3 @@ An Embedded Systems project simulating a real-world washing machine using **PIC1
 - Peripheral interfacing: Keypad, LCD, buzzer, sensors
 - FSM design for state-based logic flow
 - Real-time embedded simulation and debugging
-
-## 📸 Demo Preview
-> *(You can upload screenshots or screen recordings of the simulation here)*
-
-## 📁 Repository Structure
