@@ -31,27 +31,6 @@ unsigned char read_digital_keypad(unsigned char mode) {
         longpressed++;
         return LPSW4; // long press
     }
-    /* 
-    static unsigned char once = 1;
-    
-    if (mode == LEVEL_DETECTION)
-    {
-        return KEYPAD_PORT & INPUT_LINES;
-    }
-    else
-    {
-        if (((KEYPAD_PORT & INPUT_LINES) != ALL_RELEASED) && once)
-        {
-            once = 0;
-            
-            return KEYPAD_PORT & INPUT_LINES;
-        }
-        else if ((KEYPAD_PORT & INPUT_LINES) == ALL_RELEASED)
-        {
-            once = 1;
-        }
-    }
-     */
 
     return ALL_RELEASED;
 }
