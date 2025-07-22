@@ -22,3 +22,6 @@ An Embedded Systems project simulating a real-world washing machine using **PIC1
 - Peripheral interfacing: Keypad, LCD, buzzer, sensors
 - FSM design for state-based logic flow
 - Real-time embedded simulation and debugging
+
+## 🙌 Acknowledgements
+Thanks to **Emertxe Information Technologies** for the guidance and opportunity during the internship.
