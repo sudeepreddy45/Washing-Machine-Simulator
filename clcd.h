@@ -1,8 +1,3 @@
-//clcd.h
-/* 
- * File:   clcd.h
- */
-
 #ifndef CLCD_H
 #define	CLCD_H
 
