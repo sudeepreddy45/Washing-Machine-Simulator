@@ -1,10 +1,3 @@
-/*
- * File:   digital_keypad.h
- * Author: Saumya
- *
- * Created on 17 June, 2024,
- */
-
 #ifndef DIGITAL_KEYPAD_H
 #define	DIGITAL_KEYPAD_H
 
